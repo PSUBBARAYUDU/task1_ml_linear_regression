@@ -100,6 +100,9 @@ Hands-on experience with Linear Regression
 Model evaluation and interpretation
 
 Real-world dataset handling
+▶️ How to Run the UI
+pip install streamlit
+streamlit run house_price_app.py
 
 
 https://github.com/user-attachments/assets/632b1220-b7ab-4834-8cdc-7576545828dd
