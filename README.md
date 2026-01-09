@@ -1,4 +1,4 @@
-🏠 House Price Prediction using Linear Regression
+🏠 House Price Prediction using Linear Regression model on the California Housing dataset 
 
 This project demonstrates the complete machine learning workflow by building and evaluating a Linear Regression model to predict house prices using a structured dataset.
 It covers data loading, preprocessing, exploratory data analysis, model training, evaluation, and saving the trained model.
